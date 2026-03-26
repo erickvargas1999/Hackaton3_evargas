@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_uDPCkCltEfGfS5eQfgR2IQ" name="CNX_SS_INSTACART_STAGING" id="_Z1fW4CltEfGfS5eQfgR2IQ" label="CNX_SS_INSTACART_STAGING" dataPackage="_uWNB4CltEfGfS5eQfgR2IQ" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://54.167.143.131:3306/instacart_staging?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="admin" Password="enc:system.encryption.key.v1:mUJSMiJoPbcVJbCh6lEEOvJc+lQZ7S8Wqv8SjsZieWjf697CtOBdLP5XmT0Ac++BEWO/iYqd" ServerName="54.167.143.131" DatasourceName="" FileFieldName="" SID="instacart_staging" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_uDQQsCltEfGfS5eQfgR2IQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_uENS8CltEfGfS5eQfgR2IQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_uEtCMCltEfGfS5eQfgR2IQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_uEtCMSltEfGfS5eQfgR2IQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_uEtCMiltEfGfS5eQfgR2IQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_uEtCMyltEfGfS5eQfgR2IQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_uEtCNCltEfGfS5eQfgR2IQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_uEtCNSltEfGfS5eQfgR2IQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_uNo7wCltEfGfS5eQfgR2IQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_uNo7wSltEfGfS5eQfgR2IQ" tag="DB ProductVersion" value="5.7.32"/>
+    <taggedValue xmi:id="_uNo7wiltEfGfS5eQfgR2IQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_uDQQsSltEfGfS5eQfgR2IQ" key="CONN_PARA_KEY_USERNAME" value="admin"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_uWNB4CltEfGfS5eQfgR2IQ" name="instacart_staging" dataManager="_uDPCkCltEfGfS5eQfgR2IQ"/>
+</xmi:XMI>
