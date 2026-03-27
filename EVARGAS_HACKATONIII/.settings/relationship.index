@@ -1,1 +1,31 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_-9eh4CmIEfG849sgb7ON8Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Z1fW4CltEfGfS5eQfgR2IQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__G8eYClxEfG849sgb7ON8Q - DEPARTMENTS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Zdj1sCmGEfG849sgb7ON8Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Z1fW4CltEfGfS5eQfgR2IQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x8Sa8ClxEfG849sgb7ON8Q - AISLES",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
