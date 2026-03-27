@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_x8TCAClxEfG849sgb7ON8Q" name="CNX_CSV_AISLES" dataPackage="_x8TCASlxEfG849sgb7ON8Q" Server="Localhost 127.0.0.1" FilePath="D:/HP/Descargas/INSTACART_DATA/aisles.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_x8TCASlxEfG849sgb7ON8Q" name="default" dataManager="_x8TCAClxEfG849sgb7ON8Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_x8TCAilxEfG849sgb7ON8Q" id="_i0brAClxEfG849sgb7ON8Q" label="AISLES">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x8TCAylxEfG849sgb7ON8Q" label="aisle_id" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x8TCBClxEfG849sgb7ON8Q" label="aisle" length="500" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
